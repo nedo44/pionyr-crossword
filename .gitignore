@@ -1,0 +1,18 @@
+# Prostředí a tajné klíče
+.env
+.venv/
+venv/
+env/
+.streamlit/secrets.toml
+
+# Bytecode a mezipaměť Pythonu
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Systémové a lokální konfigurační soubory
+.DS_Store
+AGENTS.md
+pionyr_obsah.json

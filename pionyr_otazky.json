@@ -1,0 +1,1011 @@
+[
+  {
+    "answer": "PRIRODA",
+    "clue": "Jeden ze sedmi pionýrských ideálů, vyjadřující ochranu živé i neživé krajiny a šetrný přístup k životnímu prostředí."
+  },
+  {
+    "answer": "PRAVDA",
+    "clue": "Pionýrský ideál zavazující k čestnosti, spolehlivosti a pravdivému jednání s kamarády."
+  },
+  {
+    "answer": "POMOC",
+    "clue": "Ideál Pionýra představující ochotu podat pomocnou ruku slabším, potřebným a přátelům."
+  },
+  {
+    "answer": "PRATELSTVI",
+    "clue": "Základní pionýrská hodnota a ideál budování pevných pout a kamarádství v partě."
+  },
+  {
+    "answer": "POZNANI",
+    "clue": "Pionýrský ideál vyjadřující touhu učit se novým věcem, objevovat svět a rozvíjet své schopnosti."
+  },
+  {
+    "answer": "PREKONANI",
+    "clue": "Pionýrský ideál znamenající odvahu postavit se výzvám, lenosti a vlastním slabostem."
+  },
+  {
+    "answer": "PAMET",
+    "clue": "Ideál Pionýra připomínající úctu k historii, tradicím našich předků a kořenům."
+  },
+  {
+    "answer": "TABOR",
+    "clue": "Tradiční letní vyvrcholení celoroční oddílové činnosti pod stany či v chatkách."
+  },
+  {
+    "answer": "ODDIL",
+    "clue": "Základní kolektiv dětí a vedoucích v Pionýru, který se pravidelně schází po celý rok."
+  },
+  {
+    "answer": "KLUBOVNA",
+    "clue": "Místnost a zázemí pionýrského oddílu určené pro týdenní schůzky, hry a rukodělné aktivity."
+  },
+  {
+    "answer": "VEDOUCI",
+    "clue": "Dospělý dobrovolník, který organizuje schůzky, výpravy a tábory pro děti."
+  },
+  {
+    "answer": "INSTRUKTOR",
+    "clue": "Mladý pomocník vedoucího (často ve věku 15–18 let), který se podílí na přípravě her pro mladší členy."
+  },
+  {
+    "answer": "ZNAK",
+    "clue": "Oficiální grafický symbol organizace Pionýr zobrazující plamen a vlaštovku."
+  },
+  {
+    "answer": "VLASTOVKA",
+    "clue": "Pták v letu symbolizující svobodu a mládí v logu Pionýra; též prestižní ocenění Křišťálová..."
+  },
+  {
+    "answer": "SEDMIKVITEK",
+    "clue": "Kulturní a umělecká soutěž Pionýra s tradicí od hudby přes tanec až po výtvarnou tvorbu."
+  },
+  {
+    "answer": "OHEN",
+    "clue": "Táborový živel, u kterého se večer zpívají písničky s kytarou a hodnotí den."
+  },
+  {
+    "answer": "VYPRAVA",
+    "clue": "Víkendový výlet oddílu do přírody, k památkám nebo na turistickou základnu."
+  },
+  {
+    "answer": "SKUPINA",
+    "clue": "Organizační jednotka sdružující několik pionýrských oddílů v daném městě či obci."
+  },
+  {
+    "answer": "ZAKLADNA",
+    "clue": "Nemovitost či táborový areál v přírodě sloužící oddílům pro víkendovky a letní tábory."
+  },
+  {
+    "answer": "DRUZINA",
+    "clue": "Menší skupinka kamarádů uvnitř oddílu vedená rádcem."
+  },
+  {
+    "answer": "RADCE",
+    "clue": "Zkušenější starší člen oddílu, který pomáhá řídit svoji družinu."
+  },
+  {
+    "answer": "STAN",
+    "clue": "Plátěný příbytek na letním táboře s dřevěnou podsadou pro dva nocležníky."
+  },
+  {
+    "answer": "BUZOLA",
+    "clue": "Navigační pomůcka pro určování světových stran a azimutu při orientačním běhu či výpravě."
+  },
+  {
+    "answer": "UZEL",
+    "clue": "Dovednost vázání lana – například dračí, ambulantní či lodní smyčka."
+  },
+  {
+    "answer": "BATOH",
+    "clue": "Nezbytné zavazadlo pionýra na záda pro víkendové putování a přespávání v lese."
+  },
+  {
+    "answer": "MAPA",
+    "clue": "Kartografické zobrazení terénu používané k plánování tras a orientačním hrám."
+  },
+  {
+    "answer": "HESLO",
+    "clue": "Krátká myšlenka či pokřik shrnující poslání oddílu nebo celého spolku."
+  },
+  {
+    "answer": "LEDOVA",
+    "clue": "Zimní akce Pionýra o pololetních prázdninách: ... města."
+  },
+  {
+    "answer": "PRISTAV",
+    "clue": "Každoroční ocenění pro osobnosti a komunální politiky podporující práci s dětmi: Cena..."
+  },
+  {
+    "answer": "PIOKVIZ",
+    "clue": "Vědomostní internetová soutěž pro členy i veřejnost prověřující znalosti o Pionýru."
+  },
+  {
+    "answer": "MOZAIKA",
+    "clue": "Pionýrský zpravodaj a časopis pro vedoucí a instruktory: ... pionýrské činnosti."
+  },
+  {
+    "answer": "PARTA",
+    "clue": "Společenství dobrých přátel a vrstevníků v oddíle držících vždy při sobě."
+  },
+  {
+    "answer": "KYTARA",
+    "clue": "Oblíbený strunný hudební nástroj u táborových ohňů."
+  },
+  {
+    "answer": "KOTLIK",
+    "clue": "Nádoba na vaření guláše a polévky přímo nad otevřeným ohněm na výpravě."
+  },
+  {
+    "answer": "ZAVOD",
+    "clue": "Měření sil a dovedností v táborových disciplínách a sportech."
+  },
+  {
+    "answer": "ODZNAK",
+    "clue": "Kovový či látkový symbol splněné pionýrské stezky či odborné zkoušky."
+  },
+  {
+    "answer": "SPOLEK",
+    "clue": "Právní forma dobrovolné organizace Pionýr sdružující děti, mládež i dospělé."
+  },
+  {
+    "answer": "STANOVY",
+    "clue": "Základní vnitřní dokument organizace vymezující její poslání, orgány a pravidla."
+  },
+  {
+    "answer": "SVRATKA",
+    "clue": "Jihomoravská řeka, jež dala jméno 45. pionýrské skupině z Větrné ulice v Brně."
+  },
+  {
+    "answer": "SLUNOVRAT",
+    "clue": "Astronomický jev v názvu 52. pionýrské skupiny sídlící v Brně na Pavlovské."
+  },
+  {
+    "answer": "PAPRSEK",
+    "clue": "Svazek světla, který mají v názvu pražské pionýrské centrum č. 61 i skupina č. 154."
+  },
+  {
+    "answer": "LVICATA",
+    "clue": "Mláďata krále zvířat v názvu 68. pionýrské skupiny z Prahy 8."
+  },
+  {
+    "answer": "VODOVOD",
+    "clue": "Potrubní soustava přivádějící vodu, nesená v názvu 73. pražské pionýrské skupiny."
+  },
+  {
+    "answer": "LETKA",
+    "clue": "Základní letecká vojenská jednotka v názvu 85. brněnské pionýrské skupiny."
+  },
+  {
+    "answer": "ORION",
+    "clue": "Výrazné zimní souhvězdí, podle něhož se jmenuje 93. pionýrská skupina v Praze 14."
+  },
+  {
+    "answer": "VYSEHRAD",
+    "clue": "Bájná pražská pevnost nad Vltavou v názvu 109. pionýrské skupiny."
+  },
+  {
+    "answer": "BOR",
+    "clue": "Souvislý borový les v názvu 121. pionýrské skupiny z Prahy 4."
+  },
+  {
+    "answer": "BOBRICI",
+    "clue": "Hlodavci a foglarovské odznaky zdatnosti v názvu 188. pionýrské skupiny v Praze 10."
+  },
+  {
+    "answer": "LEDNACEK",
+    "clue": "Pestře zbarvený pták lovící rybky, podle kterého se jmenuje 241. pionýrská skupina."
+  },
+  {
+    "answer": "KATAMARAN",
+    "clue": "Plavidlo se dvěma rovnoběžnými trupy v názvu liberecké pionýrské skupiny z Vesce."
+  },
+  {
+    "answer": "BELUNACI",
+    "clue": "Členové pionýrské skupiny ze Sladkovského ulice ve Dvoře Králové nad Labem."
+  },
+  {
+    "answer": "BESKYDY",
+    "clue": "Moravskoslezské pohoří v názvu pionýrské skupiny sídlící v Ostravě-Porubě."
+  },
+  {
+    "answer": "BRONTOSAURI",
+    "clue": "Druhohorní ještěři v názvu pionýrské skupiny z Velké Čermné."
+  },
+  {
+    "answer": "CAPATA",
+    "clue": "Mláďata brodivých ptáků v názvu olomoucké pionýrské skupiny."
+  },
+  {
+    "answer": "CTYRLISTEK",
+    "clue": "Symbol štěstí v rostlinné říši i název pionýrské skupiny z Domažlic."
+  },
+  {
+    "answer": "NERUDA",
+    "clue": "Příjmení spisovatele Jana, patrona 143. pionýrské skupiny na Praze 5."
+  },
+  {
+    "answer": "WOLKER",
+    "clue": "Příjmení básníka Jiřího v názvu 5. brněnské pionýrské skupiny S.T.O."
+  },
+  {
+    "answer": "FUCIK",
+    "clue": "Příjmení novináře Julia v názvu 2. pionýrské skupiny z Kroměříže."
+  },
+  {
+    "answer": "DISK",
+    "clue": "Čtyřpísmenná zkratka v názvu 16. pionýrské skupiny na Praze 4."
+  },
+  {
+    "answer": "MLADI",
+    "clue": "Čas lidského dospívání obsažený v názvu 30. pionýrské skupiny z Brna."
+  },
+  {
+    "answer": "LESNA",
+    "clue": "Brněnská čtvrť, v níž sídlí stejnojmenná 34. pionýrská skupina."
+  },
+  {
+    "answer": "VINOHRADY",
+    "clue": "Brněnské sídliště v názvu 43. pionýrské skupiny z Bzenecké ulice."
+  },
+  {
+    "answer": "SRAMEK",
+    "clue": "Příjmení básníka Fráni, jehož jméno nese pionýrská skupina v Sobotce."
+  },
+  {
+    "answer": "DOBRUSKA",
+    "clue": "Podorlické město, kde sídlí stejnojmenná pionýrská skupina."
+  },
+  {
+    "answer": "BOSKOVICE",
+    "clue": "Moravské město s náměstím 9. května, kde působí stejnojmenná pionýrská skupina."
+  },
+  {
+    "answer": "HOLESOV",
+    "clue": "Město ve Zlínském kraji, sídlo Pionýrské skupiny dr. Mirko Očadlíka."
+  },
+  {
+    "answer": "STUDENKA",
+    "clue": "Město v Moravskoslezském kraji, kde sídlí Butovická pionýrská skupina."
+  },
+  {
+    "answer": "STRASICE",
+    "clue": "Obec v okrese Rokycany, sídlo Pionýrské skupiny Bílá Cerkev."
+  },
+  {
+    "answer": "KOLEKTIV",
+    "clue": "Společenství oddílu, do něhož se nováček plnohodnotně začlení složením slibu."
+  },
+  {
+    "answer": "MILNIK",
+    "clue": "Důležitý přelom či významný mezník v pionýrském životě při vstupu do oddílu."
+  },
+  {
+    "answer": "PIONYR",
+    "clue": "Člen dětské organizace, který chrání spravedlnost, plní dané slovo a hraje fér."
+  },
+  {
+    "answer": "SLIB",
+    "clue": "Slavnostní oddílový či skupinový závazek, jímž se pionýr stává právoplatným členem."
+  },
+  {
+    "answer": "SLOVO",
+    "clue": "Závazek či slib, který pionýr podle své zásady vždy čestně plní."
+  },
+  {
+    "answer": "TRADICE",
+    "clue": "Dlouhodobě předávaný zvyk, jakým je v mnoha oddílech právě skládání slibu."
+  },
+  {
+    "answer": "VAZBA",
+    "clue": "Hluboké přátelské pouto vznikající mezi dětmi v bezpečném oddílovém prostředí."
+  },
+  {
+    "answer": "VZOR",
+    "clue": "Příkladné chování, které by měli vedoucí a instruktoři dětem poskytovat."
+  },
+  {
+    "answer": "CENTRUM",
+    "clue": "Typ pobočného spolku Pionýra zaměřený převážně na servisní činnost a akce (zkratka PC)."
+  },
+  {
+    "answer": "DEDICTVI",
+    "clue": "Jeden ze způsobů bezúplatného nabytí majetku do spolkového jmění ze závěti."
+  },
+  {
+    "answer": "DELEGAT",
+    "clue": "Zvolený zástupce vyslaný pobočným spolkem na výroční zasedání nebo krajskou radu."
+  },
+  {
+    "answer": "DOTACE",
+    "clue": "Nevratná finanční podpora z veřejných zdrojů tvořící jeden z možných příjmů spolku."
+  },
+  {
+    "answer": "HOSPODAR",
+    "clue": "Pionýrský funkcionář zodpovědný za vedení účetnictví, majetkovou evidenci a správu financí."
+  },
+  {
+    "answer": "KLUB",
+    "clue": "Volnočasová výchovná jednotka pro činnost s neorganizovanými dětmi, scházející se alespoň jednou měsíčně."
+  },
+  {
+    "answer": "KOOPTACE",
+    "clue": "Postup doplnění člena voleného kolektivního orgánu na uvolněné místo před koncem mandátu."
+  },
+  {
+    "answer": "LIKVIDATOR",
+    "clue": "Osoba pověřená vypořádáním majetku a závazků při rušení pobočného spolku."
+  },
+  {
+    "answer": "ODVOLANI",
+    "clue": "Opravný prostředek, který může člen podat například k Rozhodčí komisi proti vyloučení."
+  },
+  {
+    "answer": "PES",
+    "clue": "Tradiční zvířecí maskot spolku Pionýr."
+  },
+  {
+    "answer": "PRAHA",
+    "clue": "Město, které je podle stanov oficiálním sídlem spolku Pionýr."
+  },
+  {
+    "answer": "PREDSEDA",
+    "clue": "Individuální statutární zástupce stojící v čele celého Pionýra i krajské organizace."
+  },
+  {
+    "answer": "REGISTRACE",
+    "clue": "Pravidelný evidenční úkon spojený s poplatkem, jímž se obnovuje členství na kalendářní rok."
+  },
+  {
+    "answer": "REVIZOR",
+    "clue": "Volený funkcionář skupiny či centra dohlížející na správnost účetních záznamů a předpisů."
+  },
+  {
+    "answer": "ROZPOCET",
+    "clue": "Finanční plán příjmů a výdajů schvalovaný radou na příslušné období."
+  },
+  {
+    "answer": "SEKCE",
+    "clue": "Odborný pracovní orgán či štáb zřizovaný výkonným výborem pro konkrétní oblast činnosti."
+  },
+  {
+    "answer": "SMERNICE",
+    "clue": "Vnitřní závazný předpis spolku vydávaný příslušnými volenými orgány."
+  },
+  {
+    "answer": "SPRAVCE",
+    "clue": "Fyzická osoba dosazená do čela pobočného spolku při jeho nečinnosti trvající alespoň tři měsíce."
+  },
+  {
+    "answer": "TRIKOLORA",
+    "clue": "Barevný podklad kruhového znaku Pionýra."
+  },
+  {
+    "answer": "USTREDI",
+    "clue": "Servisní a administrativní aparát spolku sídlící v hlavním městě."
+  },
+  {
+    "answer": "DOMAZLICE",
+    "clue": "Sídlo pionýrské skupiny Mír."
+  },
+  {
+    "answer": "EKONOM",
+    "clue": "Funkce členky Výkonného výboru Pionýra starající se o finance."
+  },
+  {
+    "answer": "GALAXIE",
+    "clue": "Název, který sdílí hned dvě pionýrské skupiny uvedené v textu."
+  },
+  {
+    "answer": "HORAZDOVICE",
+    "clue": "Město, kde působí PS Prácheň."
+  },
+  {
+    "answer": "KOMUNIKACE",
+    "clue": "Činnost spojená s propagací, již má na starosti člen Výkonného výboru."
+  },
+  {
+    "answer": "LEGISLATIVA",
+    "clue": "Oblast, kterou má na starosti 1. místopředseda Pionýra."
+  },
+  {
+    "answer": "MEDVEDI",
+    "clue": "Zvířata obsažená v názvu 96. pionýrské skupiny."
+  },
+  {
+    "answer": "NEMOVITOSTI",
+    "clue": "Oblast majetku, kterou ve Výkonném výboru spravuje mužský člen."
+  },
+  {
+    "answer": "VYSOCINA",
+    "clue": "Geografický název v názvu pionýrské skupiny ze Svitav."
+  },
+  {
+    "answer": "VZDELAVANI",
+    "clue": "Oblast spojená s digitalizací, již vede 2. místopředseda."
+  },
+  {
+    "answer": "SVITAVY",
+    "clue": "Město, odkud pochází pionýrská skupina Vysočina."
+  },
+  {
+    "answer": "ARNYKA",
+    "clue": "Oddíl 45. pionýrské skupiny v Praze 6 pojmenovaný po horské bylině."
+  },
+  {
+    "answer": "DELFINI",
+    "clue": "Pionýrský oddíl z Dobřan pojmenovaný po inteligentních mořských savcích."
+  },
+  {
+    "answer": "JITRENKA",
+    "clue": "Pionýrské centrum v Kališti, pod které patří oddíly Junioři a Mrňata."
+  },
+  {
+    "answer": "KALICH",
+    "clue": "Pionýrská skupina č. 117, pod kterou spadají Cepníci."
+  },
+  {
+    "answer": "KNOFLICI",
+    "clue": "Oddíl Pionýrské skupiny Šumperk pojmenovaný podle drobných zapínadel oděvů."
+  },
+  {
+    "answer": "LABYRINT",
+    "clue": "Boskovický pionýrský oddíl s názvem připomínajícím složité bludiště."
+  },
+  {
+    "answer": "LOUCATA",
+    "clue": "Pionýrský oddíl z Luk nad Jihlavou pojmenovaný podle malých pochodní."
+  },
+  {
+    "answer": "MARTANCI",
+    "clue": "Oddíl Pionýrské skupiny Záře nazvaný podle obyvatel Rudé planety."
+  },
+  {
+    "answer": "NEZMARI",
+    "clue": "Oddíl Pionýrské skupiny Kopřivnice vyjadřující nezničitelnost."
+  },
+  {
+    "answer": "POUTNICI",
+    "clue": "Pionýrský turistický oddíl ze skupiny Spartakovci."
+  },
+  {
+    "answer": "SEVERKA",
+    "clue": "Pionýrský turistický oddíl z Řečkovic nazvaný podle hvězdy Polárky."
+  },
+  {
+    "answer": "STEZKA",
+    "clue": "Pionýrský turistický oddíl patřící pod skupinu Expedice."
+  },
+  {
+    "answer": "VLCATA",
+    "clue": "Pionýrský turistický oddíl z 30. PS Mládí pojmenovaný po mladých šelmách."
+  },
+  {
+    "answer": "ALTAIR",
+    "clue": "Hvězdný název 12. oddílu ze 147. pionýrské skupiny Galaxie."
+  },
+  {
+    "answer": "BERUSKY",
+    "clue": "Slunéčka sedmitečná lidově v názvu oddílu z Brodku u Prostějova."
+  },
+  {
+    "answer": "BRABROUCI",
+    "clue": "Hmyzí název 66. PTO z pionýrské skupiny Modřice."
+  },
+  {
+    "answer": "CMELDOVE",
+    "clue": "Oblíbené hmyzí postavičky v názvu oddílu ze skupiny Čtyřlístek."
+  },
+  {
+    "answer": "DRACATA",
+    "clue": "Pohádkoví tvorové v názvu 1. pionýrské skupiny."
+  },
+  {
+    "answer": "HUNACI",
+    "clue": "Oddíl 96. pionýrské skupiny Veselí Medvědi."
+  },
+  {
+    "answer": "KAMARADI",
+    "clue": "Blízcí přátelé v názvu 1. oddílu ze skupiny Přátelství."
+  },
+  {
+    "answer": "KOBRA",
+    "clue": "Airsoftový oddíl ze Strašic pojmenovaný podle jedovatého hada."
+  },
+  {
+    "answer": "KOCOVNICI",
+    "clue": "Lidé putující z místa na místo v názvu 49. pionýrské skupiny."
+  },
+  {
+    "answer": "KORMORANI",
+    "clue": "Vodní ptáci v názvu pionýrské skupiny i oddílu."
+  },
+  {
+    "answer": "KRYSACI",
+    "clue": "Hlodavci známí z večerníčku v názvu pionýrského oddílu ze skupiny Hugo Sytaře."
+  },
+  {
+    "answer": "MODELARI",
+    "clue": "Zájmový technický oddíl působící při Pionýrské skupině Hrádek."
+  },
+  {
+    "answer": "MOTACCI",
+    "clue": "Draví ptáci v názvu oddílu ze skupiny Dravci."
+  },
+  {
+    "answer": "OBJEVITELE",
+    "clue": "Průzkumníci neznáma v názvu oddílu i stejnojmenné pionýrské skupiny."
+  },
+  {
+    "answer": "PHOENIX",
+    "clue": "Bájný pták v názvu 63. PTO z pionýrské skupiny Borač."
+  },
+  {
+    "answer": "RESTART",
+    "clue": "Pionýrská skupina zaměřená na keramiku i mladé pěstitele."
+  },
+  {
+    "answer": "TROJLISTEK",
+    "clue": "Rostlinný symbol v názvu strašické pionýrské skupiny."
+  },
+  {
+    "answer": "TULAK",
+    "clue": "Poutník v názvu 34. PTO pod pionýrskou skupinou Mládí."
+  },
+  {
+    "answer": "DOMOVNIK",
+    "clue": "Nepravidelně udělované ocenění ve tvaru klíče pro vedoucího za správu základny."
+  },
+  {
+    "answer": "MEDAILE",
+    "clue": "Ocenění Ministerstva školství, mládeže a tělovýchovy za významnou pedagogickou práci."
+  },
+  {
+    "answer": "ANTARES",
+    "clue": "Jasná hvězda v názvu oddílu Mini... pod skupinou Pavučina."
+  },
+  {
+    "answer": "DAISY",
+    "clue": "Dívčí jméno pionýrského oddílu ze skupiny Nepomuk."
+  },
+  {
+    "answer": "DRAVCI",
+    "clue": "Dravé ptactvo v názvu skupiny, pod kterou létají Motáčci."
+  },
+  {
+    "answer": "EXPEDICE",
+    "clue": "Pionýrská skupina, k níž patří oddíl Stezka."
+  },
+  {
+    "answer": "FIXY",
+    "clue": "Psací potřeby v názvu oddílu Pionýrské skupiny Hradec."
+  },
+  {
+    "answer": "KOPRIVNICE",
+    "clue": "Město v Moravskoslezském kraji, kde působí oddíl Nezmaři."
+  },
+  {
+    "answer": "OMEGA",
+    "clue": "Písmeno řecké abecedy v názvu pionýrské skupiny, kde působí oddíl Klíč."
+  },
+  {
+    "answer": "PAVUCINA",
+    "clue": "Pionýrská skupina zaštiťující oddíl Mini Antares."
+  },
+  {
+    "answer": "SUMPERK",
+    "clue": "Severomoravské město, v němž působí pionýrský oddíl Knoflíci."
+  },
+  {
+    "answer": "DODGEBALL",
+    "clue": "Sportovní hra z názvu klubu Rudí orli v Kopřivnici."
+  },
+  {
+    "answer": "HORIZONT",
+    "clue": "Název klubu Pionýrské skupiny Za Vodou."
+  },
+  {
+    "answer": "KDYNE",
+    "clue": "Město spojené s pionýrskou skupinou Safír a Šachovým klubem."
+  },
+  {
+    "answer": "KROMERIZ",
+    "clue": "Město, v němž působí 2. pionýrská skupina Julia Fučíka."
+  },
+  {
+    "answer": "MODRICE",
+    "clue": "Sídlo pionýrské skupiny, která zřídila Výtvarný klub."
+  },
+  {
+    "answer": "SAFIR",
+    "clue": "Modrý drahokam v názvu pionýrské skupiny ze Kdyně."
+  },
+  {
+    "answer": "TARZAN",
+    "clue": "Jméno postavy z divočiny v názvu klubu pionýrské skupiny Safír Kdyně."
+  },
+  {
+    "answer": "VYDRYSEK",
+    "clue": "Název klubu kdynské pionýrské skupiny připomínající večerníčkovou šelmu."
+  },
+  {
+    "answer": "ZARYBY",
+    "clue": "Název klubu 2. pionýrské skupiny Julia Fučíka v Kroměříži."
+  },
+  {
+    "answer": "DOVOLENA",
+    "clue": "Doba, kdy zaměstnanci nepracují a čerpají volno."
+  },
+  {
+    "answer": "EMAIL",
+    "clue": "Osobní elektronický kontakt na zaměstnance."
+  },
+  {
+    "answer": "MICHAL",
+    "clue": "Křestní jméno předsedy Pionýra."
+  },
+  {
+    "answer": "PATEK",
+    "clue": "Poslední pracovní den v týdnu."
+  },
+  {
+    "answer": "PONDELI",
+    "clue": "První den v týdnu, kdy bývá otevřeno."
+  },
+  {
+    "answer": "REJZEK",
+    "clue": "Příjmení předsedy Pionýra."
+  },
+  {
+    "answer": "SCHUZKA",
+    "clue": "Setkání, které je nutné si předem domluvit."
+  },
+  {
+    "answer": "TELEFON",
+    "clue": "Komunikační prostředek pro domluvu schůzky."
+  },
+  {
+    "answer": "DOBROVOLNIK",
+    "clue": "Člověk věnující svůj čas a energii bezplatné pomoci druhým či práci s dětmi."
+  },
+  {
+    "answer": "INTEGRACE",
+    "clue": "Zapojování dětí z ústavní péče a zařízení institucionální výchovy do běžného života."
+  },
+  {
+    "answer": "KREV",
+    "clue": "Tělesná tekutina, kterou pionýři darují na transfúzních stanicích."
+  },
+  {
+    "answer": "LIGA",
+    "clue": "Partnerská organizace proti rakovině, se kterou Pionýr spolupracuje od roku 2008."
+  },
+  {
+    "answer": "RAKOVINA",
+    "clue": "Závažné onemocnění, proti kterému pionýři pomáhají bojovat v tradiční květinové sbírce."
+  },
+  {
+    "answer": "TRANSFUZE",
+    "clue": "Lékařský převod drahocenné tekutiny, pro který dárci z Pionýra navštěvují stanice po celé ČR."
+  },
+  {
+    "answer": "VYCHOVA",
+    "clue": "Cílevědomý rozvoj dětí a mládeže."
+  },
+  {
+    "answer": "HAMRY",
+    "clue": "První část názvu obce na Vysočině, kde sídlí krajská organizace."
+  },
+  {
+    "answer": "JABLONEC",
+    "clue": "Město v severních Čechách spojené s libereckou krajskou organizací."
+  },
+  {
+    "answer": "JIHOCESKA",
+    "clue": "Krajská organizace nacházející se v Českých Budějovicích."
+  },
+  {
+    "answer": "LIBERECKA",
+    "clue": "Krajská organizace sídlící v Jablonci nad Nisou v části Mšeno nad Nisou."
+  },
+  {
+    "answer": "PLZENSKA",
+    "clue": "Krajská organizace sídlící na Dítětově ulici."
+  },
+  {
+    "answer": "STREDOCESKA",
+    "clue": "Krajská organizace, jejíž sídlo je v Mladé Boleslavi."
+  },
+  {
+    "answer": "BUCHTA",
+    "clue": "1. místopředseda Pionýra (legislativa)"
+  },
+  {
+    "answer": "BREBURDA",
+    "clue": "2. místopředseda Pionýra (vzdělávání a digitalizace)"
+  },
+  {
+    "answer": "BREJCHOVA",
+    "clue": "Členka Výkonného výboru Pionýra (ekonomka)"
+  },
+  {
+    "answer": "PENAK",
+    "clue": "Člen Výkonného výboru Pionýra (nemovitosti)"
+  },
+  {
+    "answer": "FUSKOVA",
+    "clue": "Členka Výkonného výboru Pionýra (činnost)"
+  },
+  {
+    "answer": "LANGER",
+    "clue": "Člen Výkonného výboru Pionýra (komunikace a propagace)"
+  },
+  {
+    "answer": "VEJVODOVA",
+    "clue": "Předsedkyně Kontrolní komise Pionýra"
+  },
+  {
+    "answer": "FRAITOVA",
+    "clue": "Místopředsedkyně Kontrolní komise Pionýra"
+  },
+  {
+    "answer": "JANACKOVA",
+    "clue": "Členka Kontrolní komise Pionýra (PS Za Vodou)"
+  },
+  {
+    "answer": "MESTICOVA",
+    "clue": "Členka Kontrolní komise Pionýra (PS Prácheň Horažďovice)"
+  },
+  {
+    "answer": "DANICKOVA",
+    "clue": "Členka Kontrolní komise Pionýra (PS Tužíňáci)"
+  },
+  {
+    "answer": "MATYAS",
+    "clue": "Člen Kontrolní komise Pionýra (PS Tažní ptáci)"
+  },
+  {
+    "answer": "DELFAVERO",
+    "clue": "Člen Kontrolní komise Pionýra (32. PS Galaxie)"
+  },
+  {
+    "answer": "HAMMERLE",
+    "clue": "Předseda Rozhodčí komise Pionýra"
+  },
+  {
+    "answer": "SKAMPA",
+    "clue": "Místopředseda Rozhodčí komise Pionýra"
+  },
+  {
+    "answer": "LOUDA",
+    "clue": "Člen Rozhodčí komise Pionýra (147. PS Galaxie)"
+  },
+  {
+    "answer": "SASEK",
+    "clue": "Člen Rozhodčí komise Pionýra (PS Tuláci)"
+  },
+  {
+    "answer": "VYSOHLID",
+    "clue": "Člen Rozhodčí komise Pionýra (PS Katamarán)"
+  },
+  {
+    "answer": "SAKAROVA",
+    "clue": "Členka Rozhodčí komise Pionýra (PS Zborovice)"
+  },
+    {
+    "answer": "NASTUP",
+    "clue": "Společné shromáždění celého tábora u stožáru při zahájení a ukončení dne."
+  },
+  {
+    "answer": "BUDICEK",
+    "clue": "Ranní akustický signál nebo zvonění oznamující čas vstávání ze spacáků."
+  },
+  {
+    "answer": "VECERKA",
+    "clue": "Stanovená hodina pro zhasnutí svítilen a dodržování nočního klidu na táboře."
+  },
+  {
+    "answer": "STOZAR",
+    "clue": "Vysoký dřevěný kůl v centru tábořiště určený k vyvěšení státní či oddílové vlajky."
+  },
+  {
+    "answer": "VLAJKA",
+    "clue": "Symbol státu nebo oddílu slavnostně vyvěšovaný a stahovaný při ranním a večerním Nástupu."
+  },
+  {
+    "answer": "HLIDKA",
+    "clue": "Noční stráž dvojice táborníků bdící nad bezpečností a klidem v tábořišti."
+  },
+  {
+    "answer": "SLUZBA",
+    "clue": "Celodenní povinnost určeného oddílu spočívající v pomoci v kuchyni a přípravě dřeva."
+  },
+  {
+    "answer": "ROZCVICKA",
+    "clue": "Krátké ranní rozhýbání těla na čerstvém vzduchu před snídaní."
+  },
+  {
+    "answer": "PODSADA",
+    "clue": "Dřevěná ohrádka s dnem a dvěma palandami tvořící spodní část táborového stanu."
+  },
+  {
+    "answer": "KARIMATKA",
+    "clue": "Pěnová či nafukovací podložka izolující spací pytel od chladné a vlhké země."
+  },
+  {
+    "answer": "SPALAK",
+    "clue": "Zateplený textilní vak určený k přespávání ve stanu či pod širým nebem."
+  },
+  {
+    "answer": "CELTA",
+    "clue": "Čtvercová či kosočtvercová nepromokavá plachta ke stavbě nouzového přístřešku."
+  },
+  {
+    "answer": "KPZ",
+    "clue": "Zkratka krabičky s drobnou výbavou pro stav nouze."
+  },
+  {
+    "answer": "AZIMUT",
+    "clue": "Vodorovný úhel mezi severem a směrem k cíli měřený buzolou ve stupních."
+  },
+  {
+    "answer": "LEKARNICKA",
+    "clue": "Přenosná souprava zdravotnického materiálu a obvazů pro první pomoc na výpravách."
+  },
+  {
+    "answer": "PAGODA",
+    "clue": "Typ slavnostního táborového ohně skládaného z polen do tvaru jehlanu či čtverce."
+  },
+  {
+    "answer": "UMYVARNA",
+    "clue": "Místo s žlaby a studenou vodou určené k ranní i večerní hygieně."
+  },
+  {
+    "answer": "LATRINA",
+    "clue": "Suché táborové záchody vykopané v lese mimo obytnou část."
+  },
+  {
+    "answer": "BRANA",
+    "clue": "Slavnostnístupní stavba do tábořiště vytvořená z dřevěných kůlů a lan."
+  },
+  {
+    "answer": "OHNISTE",
+    "clue": "Vymezené a kamením ohraničené místo určené pro bezpečné rozdělávání ohně."
+  },
+  {
+    "answer": "JIDELNA",
+    "clue": "Velký přístřešek či šapitó s lavicemi pro společné stravování."
+  },
+  {
+    "answer": "KOMPAS",
+    "clue": "Magnetický přístroj se střelkou ukazující k severnímu pólu."
+  },
+  {
+    "answer": "VRSTEVNICE",
+    "clue": "Čára na mapě spojující místa se stejnou nadmořskou výškou."
+  },
+  {
+    "answer": "TURISTIKA",
+    "clue": "Činnost zaměřená na pěší putování, poznávání přírody a pobyt venku."
+  },
+  {
+    "answer": "ROZCESTNIK",
+    "clue": "Značka na křižovatce turistických tras udávající směry a vzdálenosti."
+  },
+  {
+    "answer": "ZNACKA",
+    "clue": "Barevný pruh na stromě navádějící turistu po vyznačené trase."
+  },
+   {
+    "answer": "OBVAZ",
+    "clue": "Základní zdravotnický materiál na ošetření a krytí ran."
+  },
+  {
+    "answer": "DLAHA",
+    "clue": "Pomůcka pro znehybnění zlomené končetiny při úrazu."
+  },
+  {
+    "answer": "KLISTE",
+    "clue": "Drobný parazitický roztoč, kterého je nutné po návratu z lesa včas odstranit."
+  },
+  {
+    "answer": "KROJ",
+    "clue": "Slavnostní oddílové či spolkové oblečení s šátkem a nášivkami."
+  },
+  {
+    "answer": "SATEK",
+    "clue": "Trojcípý textilní doplněk kroje nošený kolem krku."
+  },
+  {
+    "answer": "ZPEVNIK",
+    "clue": "Zápisník či knížka plná písniček s akordy pro večerní zpívání u kytary."
+  },
+  {
+    "answer": "KRONIKA",
+    "clue": "Vázaná kniha, do které se zapisují hlášení, fotky a vzpomínky z akcí oddílu."
+  },
+  {
+    "answer": "NASIVKA",
+    "clue": "Látkový symbol splněné zkoušky či akce přišitý na rukáv kroje."
+  },
+  {
+    "answer": "SIFRA",
+    "clue": "Tajná zpráva zakódovaná pomocí klíče nebo speciální abecedy."
+  },
+  {
+    "answer": "MORSEOVKA",
+    "clue": "Soustava teček a čárek používaná k předávání zpráv na dálku."
+  },
+  {
+    "answer": "PISKALKA",
+    "clue": "Zvuková pomůcka vedoucího ke svolávání nástupu či vyhlášení poplachu."
+  },
+  {
+    "answer": "SEKERA",
+    "clue": "Ostrý nástroj na štípání a přípravu dřeva k táborovému ohni."
+  },
+  {
+    "answer": "PILA",
+    "clue": "Ruční nástroj určený k řezání klád a silných větví na palivo."
+  },
+  {
+    "answer": "LANO",
+    "clue": "Pevný provaz používaný ke stavbě táborových staveb a lávek."
+  },
+  {
+    "answer": "KOLIK",
+    "clue": "Dřevěný nebo kovový prvek zatloukaný do země k ukotvení stanových šňůr."
+  },
+  {
+    "answer": "LOPATA",
+    "clue": "Nářadí používané při úpravě terénu, stavbě tábora nebo kopání ohniště."
+  },
+  {
+    "answer": "ZDRAVOTNIK",
+    "clue": "Člen vedení tábora mající na starosti ošetřovnu, lékárničku a zdraví dětí."
+  },
+  {
+    "answer": "KUCHAR",
+    "clue": "Člověk starající se o přípravu teplého jídla pro celý tábor."
+  },
+  {
+    "answer": "KUCHYNE",
+    "clue": "Táborové zázemí určené k vaření a skladování potravin."
+  },
+  {
+    "answer": "KANYSTR",
+    "clue": "Plastová či kovová nádoba používaná na nošení a přechovávání pitné vody."
+  },
+  {
+    "answer": "SPEKACEK",
+    "clue": "Tradiční uzenina opékaná na naostřeném klacku u táborového ohně."
+  },
+  {
+    "answer": "KRESADLO",
+    "clue": "Tradiční pomůcka ke křesání jisker a zapalování ohně bez zápalek."
+  },
+  {
+    "answer": "BRIZA",
+    "clue": "Strom, jehož kůra snadno hoří i za mokra a slouží jako skvělý troud."
+  },
+  {
+    "answer": "STOPA",
+    "clue": "Otisk tlapky zvěře nebo boty v blátě a sněhu využívaný při sledování."
+  },
+  {
+    "answer": "TROUD",
+    "clue": "Jemný, suchý a lehce vznětlivý materiál používaný k zachycení jiskry při rozdělávání ohně."
+  },
+  {
+    "answer": "DISKOTEKA",
+    "clue": "Oblíbený večerní hudební a taneční program na závěr tábora."
+  },
+  {
+    "answer": "CELOVKA",
+    "clue": "Praktická svítilna upevněná popruhem na hlavě pro svícení s volnýma rukama."
+  },
+  {
+    "answer": "PLASTENKA",
+    "clue": "Lehký nepromokavý plášť chránící táborníka i batoh před deštěm."
+  }
+]
+
