@@ -106,7 +106,7 @@ def export_crossword_pdf(
         margin,
         page_height - 61,
         safe_text(
-            f"Pionýr CrissGen · Rozměr {puzzle.width}x{puzzle.height} · "
+            f"Pionýr Crossword · Rozměr {puzzle.width}x{puzzle.height} · "
             f"{len(puzzle.words)} výrazů · pionyr.cz"
         ),
     )
@@ -289,7 +289,7 @@ def export_crossword_pdf(
         margin,
         20,
         safe_text(
-            "Pionýr CrissGen · Redakční tiskový výstup pro oddíly spolku Pionýr (pionyr.cz)"
+            "Pionýr Crossword · Redakční tiskový výstup pro oddíly spolku Pionýr (pionyr.cz)"
         ),
     )
 
@@ -683,7 +683,7 @@ def generate_printable_html(
         </section>
 
         <footer class="footer">
-            <span>Pionýr CrissGen</span>
+            <span>Pionýr Crossword</span>
             <span>Archiv pojmů: pionyr.cz</span>
         </footer>
     </main>

@@ -1,5 +1,5 @@
 """
-main.py - Hlavní vstupní skript pro aplikaci Pionýr CrissGen
+main.py - Hlavní vstupní skript pro aplikaci Pionýr Crossword
 
 Umožňuje:
 1. Spustit Streamlit webové rozhraní: `python main.py --ui`
@@ -26,7 +26,7 @@ from utils import normalize_answer
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Pionýr CrissGen - Automatický generátor křížovek pro pionyr.cz",
+        description="Pionýr Crossword - Automatický generátor křížovek pro pionyr.cz",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Příklady použití:

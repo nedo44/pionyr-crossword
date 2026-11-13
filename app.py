@@ -30,7 +30,7 @@ from utils import normalize_answer
 # Konfigurace stránky Streamlit
 # ---------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Pionýr CrissGen — Redakční generátor křížovek",
+    page_title="Pionýr Crossword — Redakční generátor křížovek",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -662,7 +662,7 @@ with st.sidebar:
     st.markdown(
         """
         <div class="sidebar-header">
-            <h2 class="sidebar-brand">Pionýr CrissGen</h2>
+            <h2 class="sidebar-brand">Pionýr Crossword</h2>
             <p class="sidebar-sub">Konfigurace mřížky a datového zdroje</p>
         </div>
         """,
@@ -882,7 +882,7 @@ st.markdown(
     f"""
     <header class="editorial-masthead">
         <div>
-            <h1 class="masthead-title">Pionýr CrissGen</h1>
+            <h1 class="masthead-title">Pionýr Crossword</h1>
             <p class="masthead-lead">
                 Redakční generátor křížovkových mřížek pro oddíly a publikace spolku Pionýr.
                 Slovní zásoba je extrahována z veřejného archivu

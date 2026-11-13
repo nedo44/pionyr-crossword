@@ -1,4 +1,4 @@
-# Pionýr CrissGen — Generátor křížovek pro spolek Pionýr
+# Pionýr Crossword — Generátor křížovek pro spolek Pionýr
 
 Modulární aplikace v jazyce Python pro automatizovaný sběr textového obsahu z webu organizace Pionýr ([pionyr.cz](https://pionyr.cz)), extrakci křížovkových hesel a nápověd pomocí modelu Google Gemini se strukturovaným výstupem, výpočet ortogonální křížovkové mřížky s tajenkou a export do tiskového PDF či samostatného HTML archu formátu A4.
 
@@ -44,8 +44,8 @@ Projekt je rozdělen do samostatných modulů s jasně vymezenou odpovědností:
 
 ```bash
 # 1. Naklonování repozitáře
-git clone https://github.com/nedo44/CrissGen.git
-cd CrissGen
+git clone https://github.com/nedo44/pionyr-crossword.git
+cd pionyr-crossword
 
 # 2. Vytvoření a aktivace virtuálního prostředí
 python3 -m venv .venv
